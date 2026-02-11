@@ -92,24 +92,21 @@ Based on insights, the following retention actions are suggested:
 ## 📁 Project Structure
 
 ```bash
-telecom-churn-retention/
+telecom-churn-analysis-python-sql-powerbi/
 │
-├── data/
-│   └── telecom_churn_dataset.csv
+├── raw data/
+│   └── raw data.csv
 │
-├── notebooks/
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_exploratory_analysis.ipynb
-│   └── 03_retention_insights.ipynb
+├── python-analysis/
+│   ├── Telecom_churn_analysis(4).ipynb
 │
-├── reports/
-│   └── churn_insights_summary.pdf
+├── sql-queries/
+│   └── SQL_analysis.sql
 │
-├── visuals/
-│   └── churn_dashboard.png
+├── visualisations/
+│   └── dashboard image.png
 │
 ├── README.md
-└── requirements.txt
 ```
 ## 🚀 How to Run This Project
 
