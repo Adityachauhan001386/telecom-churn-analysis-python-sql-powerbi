@@ -110,47 +110,39 @@ telecom-churn-retention/
 │
 ├── README.md
 └── requirements.txt
----
+```
 ## 🚀 How to Run This Project
 
-### 1.Clone the repository:
-
+### 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/telecom-churn-retention.git
 cd telecom-churn-retention
-
-
-## 2.Install dependencies:
-
+```
+## 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
-
-
-## 3.Run the notebooks:
-
+```
+## Run the notebooks:
 ```bash
-jupyter notebook
+Jupyter notebooks
+```
+## 📌 Future Enhancements
 
-##📌 Future Enhancements
+- Planned improvements include:
 
-Planned improvements include:
+- Building churn prediction models (Logistic Regression, Random Forest, XGBoost)
 
-Building churn prediction models (Logistic Regression, Random Forest, XGBoost)
+- Deploying an interactive dashboard (Power BI / Streamlit)
 
-Deploying an interactive dashboard (Power BI / Streamlit)
+- Adding Customer Lifetime Value (CLV) integration
 
-Adding customer lifetime value (CLV) integration
+- Automating a retention scoring system
 
-Automating retention scoring system
-
-## 🤝 Contribution
-
-Contributions are welcome! Feel free to fork the repo, raise issues, or submit pull requests.
-
-📬 Contact
+## 📬 Contact
 
 For questions or collaboration:
 
-Author: Aditya Chauhan
-📧 Email : ac8302530@gmail.com
+**Author**: Aditya Chauhan
+📧 Email: ac8302530@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/aditya-chauhan-0b3826180/
